@@ -1,0 +1,4064 @@
+[
+    {
+        "symbol": "China A50",
+        "displayName": "China A50",
+        "securityId": "sb42723",
+        "quoteCurrency": "USD",
+        "displayDecimals": 0,
+        "maxLeverage": 10,
+        "multiplier": 1,
+        "currentPrice": {
+            "currency": "USD",
+            "decimals": 0,
+            "amount": "19959"
+        },
+        "closingPrice": {
+            "currency": "USD",
+            "decimals": 0,
+            "amount": "19986"
+        },
+        "dayRange": {
+            "currency": "USD",
+            "decimals": 0,
+            "high": "20005",
+            "low": "19951"
+        },
+        "yearRange": {
+            "currency": "USD",
+            "decimals": 0,
+            "high": "20564",
+            "low": "10155"
+        },
+        "openingHours": {
+            "timezone": "Asia/Singapore",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "09:00",
+                        "end": "16:30"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "04:45"
+                    },
+                    {
+                        "start": "09:00",
+                        "end": "16:30"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "04:45"
+                    },
+                    {
+                        "start": "09:00",
+                        "end": "16:30"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "04:45"
+                    },
+                    {
+                        "start": "09:00",
+                        "end": "16:30"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "04:45"
+                    },
+                    {
+                        "start": "09:00",
+                        "end": "16:30"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "04:45"
+                    }
+                ]
+            ]
+        },
+        "category": "INDICES",
+        "favorite": false,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "INDICES"
+        ],
+        "localizedMainTag": {
+            "id": "INDICES",
+            "name": "Indices"
+        }
+    },
+    {
+        "symbol": "EU 50",
+        "displayName": "EU 50",
+        "securityId": "sb42726",
+        "quoteCurrency": "EUR",
+        "displayDecimals": 1,
+        "maxLeverage": 10,
+        "multiplier": 1,
+        "currentPrice": {
+            "currency": "EUR",
+            "decimals": 1,
+            "amount": "3705.0"
+        },
+        "closingPrice": {
+            "currency": "EUR",
+            "decimals": 1,
+            "amount": "3705.0"
+        },
+        "dayRange": {
+            "currency": "EUR",
+            "decimals": 1,
+            "high": "3706.0",
+            "low": "3701.0"
+        },
+        "yearRange": {
+            "currency": "EUR",
+            "decimals": 1,
+            "high": "3872.0",
+            "low": "2236.0"
+        },
+        "openingHours": {
+            "timezone": "Europe/Berlin",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "00:02",
+                        "end": "21:59"
+                    },
+                    {
+                        "start": "22:05",
+                        "end": "22:15"
+                    },
+                    {
+                        "start": "22:30",
+                        "end": "23:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "21:59"
+                    },
+                    {
+                        "start": "22:05",
+                        "end": "22:15"
+                    },
+                    {
+                        "start": "22:30",
+                        "end": "23:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "21:59"
+                    },
+                    {
+                        "start": "22:05",
+                        "end": "22:15"
+                    },
+                    {
+                        "start": "22:30",
+                        "end": "23:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "21:59"
+                    },
+                    {
+                        "start": "22:05",
+                        "end": "22:15"
+                    },
+                    {
+                        "start": "22:30",
+                        "end": "23:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "21:59"
+                    },
+                    {
+                        "start": "22:05",
+                        "end": "22:15"
+                    },
+                    {
+                        "start": "22:30",
+                        "end": "23:00"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "INDICES",
+        "favorite": false,
+        "productMarketStatus": "OPEN",
+        "tags": [
+            "INDICES"
+        ],
+        "localizedMainTag": {
+            "id": "INDICES",
+            "name": "Indices"
+        }
+    },
+    {
+        "symbol": "FRANCE40",
+        "displayName": "France 40",
+        "securityId": "sb26492",
+        "quoteCurrency": "EUR",
+        "displayDecimals": 1,
+        "maxLeverage": 20,
+        "multiplier": 1,
+        "currentPrice": {
+            "currency": "EUR",
+            "decimals": 1,
+            "amount": "5764.0"
+        },
+        "closingPrice": {
+            "currency": "EUR",
+            "decimals": 1,
+            "amount": "5764.3"
+        },
+        "dayRange": {
+            "currency": "EUR",
+            "decimals": 1,
+            "high": "5766.5",
+            "low": "5759.0"
+        },
+        "yearRange": {
+            "currency": "EUR",
+            "decimals": 1,
+            "high": "6123.2",
+            "low": "3524.6"
+        },
+        "openingHours": {
+            "timezone": "America/Chicago",
+            "weekDays": [
+                [
+                    {
+                        "start": "17:02",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "14:59"
+                    },
+                    {
+                        "start": "15:05",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "14:59"
+                    },
+                    {
+                        "start": "15:05",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "14:59"
+                    },
+                    {
+                        "start": "15:05",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "14:59"
+                    },
+                    {
+                        "start": "15:05",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "14:59"
+                    },
+                    {
+                        "start": "15:05",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "INDICES",
+        "favorite": false,
+        "productMarketStatus": "OPEN",
+        "tags": [
+            "INDICES"
+        ],
+        "localizedMainTag": {
+            "id": "INDICES",
+            "name": "Indices"
+        }
+    },
+    {
+        "symbol": "GERMANY30",
+        "displayName": "Germany 30",
+        "securityId": "sb26493",
+        "quoteCurrency": "EUR",
+        "displayDecimals": 1,
+        "maxLeverage": 20,
+        "multiplier": 1,
+        "currentPrice": {
+            "currency": "EUR",
+            "decimals": 1,
+            "amount": "13958.0"
+        },
+        "closingPrice": {
+            "currency": "EUR",
+            "decimals": 1,
+            "amount": "13962.5"
+        },
+        "dayRange": {
+            "currency": "EUR",
+            "decimals": 1,
+            "high": "13964.1",
+            "low": "13945.8"
+        },
+        "yearRange": {
+            "currency": "EUR",
+            "decimals": 1,
+            "high": "14192.5",
+            "low": "7978.8"
+        },
+        "openingHours": {
+            "timezone": "America/Chicago",
+            "weekDays": [
+                [
+                    {
+                        "start": "17:02",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "14:59"
+                    },
+                    {
+                        "start": "15:05",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "14:59"
+                    },
+                    {
+                        "start": "15:05",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "14:59"
+                    },
+                    {
+                        "start": "15:05",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "14:59"
+                    },
+                    {
+                        "start": "15:05",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "14:59"
+                    },
+                    {
+                        "start": "15:05",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "INDICES",
+        "favorite": false,
+        "productMarketStatus": "OPEN",
+        "tags": [
+            "INDICES"
+        ],
+        "localizedMainTag": {
+            "id": "INDICES",
+            "name": "Indices"
+        }
+    },
+    {
+        "symbol": "Japan 225",
+        "displayName": "Japan 225",
+        "securityId": "sb42720",
+        "quoteCurrency": "JPY",
+        "displayDecimals": 1,
+        "maxLeverage": 20,
+        "multiplier": 1,
+        "currentPrice": {
+            "currency": "JPY",
+            "decimals": 1,
+            "amount": "30210.0"
+        },
+        "closingPrice": {
+            "currency": "JPY",
+            "decimals": 1,
+            "amount": "30294.5"
+        },
+        "dayRange": {
+            "currency": "JPY",
+            "decimals": 1,
+            "high": "30329.5",
+            "low": "30185.0"
+        },
+        "yearRange": {
+            "currency": "JPY",
+            "decimals": 1,
+            "high": "30724.5",
+            "low": "16062.5"
+        },
+        "openingHours": {
+            "timezone": "Asia/Singapore",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "07:30",
+                        "end": "14:25"
+                    },
+                    {
+                        "start": "14:55",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "04:45"
+                    },
+                    {
+                        "start": "07:30",
+                        "end": "14:25"
+                    },
+                    {
+                        "start": "14:55",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "04:45"
+                    },
+                    {
+                        "start": "07:30",
+                        "end": "14:25"
+                    },
+                    {
+                        "start": "14:55",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "04:45"
+                    },
+                    {
+                        "start": "07:30",
+                        "end": "14:25"
+                    },
+                    {
+                        "start": "14:55",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "04:45"
+                    },
+                    {
+                        "start": "07:30",
+                        "end": "14:25"
+                    },
+                    {
+                        "start": "14:55",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "04:45"
+                    }
+                ]
+            ]
+        },
+        "category": "INDICES",
+        "favorite": false,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "INDICES"
+        ],
+        "localizedMainTag": {
+            "id": "INDICES",
+            "name": "Indices"
+        }
+    },
+    {
+        "symbol": "NL25",
+        "displayName": "NL 25",
+        "securityId": "sb26491",
+        "quoteCurrency": "EUR",
+        "displayDecimals": 2,
+        "maxLeverage": 10,
+        "multiplier": 1,
+        "currentPrice": {
+            "currency": "EUR",
+            "decimals": 2,
+            "amount": "670.85"
+        },
+        "closingPrice": {
+            "currency": "EUR",
+            "decimals": 2,
+            "amount": "673.73"
+        },
+        "dayRange": {
+            "currency": "EUR",
+            "decimals": 2,
+            "high": "679.88",
+            "low": "670.35"
+        },
+        "yearRange": {
+            "currency": "EUR",
+            "decimals": 2,
+            "high": "689.23",
+            "low": "378.53"
+        },
+        "openingHours": {
+            "timezone": "Europe/Amsterdam",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "08:00",
+                        "end": "22:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "08:00",
+                        "end": "22:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "08:00",
+                        "end": "22:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "08:00",
+                        "end": "22:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "08:00",
+                        "end": "22:00"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "INDICES",
+        "favorite": false,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "INDICES"
+        ],
+        "localizedMainTag": {
+            "id": "INDICES",
+            "name": "Indices"
+        }
+    },
+    {
+        "symbol": "UK100",
+        "displayName": "UK 100",
+        "securityId": "sb26495",
+        "quoteCurrency": "GBP",
+        "displayDecimals": 1,
+        "maxLeverage": 20,
+        "multiplier": 1,
+        "currentPrice": {
+            "currency": "GBP",
+            "decimals": 1,
+            "amount": "6598.5"
+        },
+        "closingPrice": {
+            "currency": "GBP",
+            "decimals": 1,
+            "amount": "6601.0"
+        },
+        "dayRange": {
+            "currency": "GBP",
+            "decimals": 1,
+            "high": "6601.1",
+            "low": "6593.2"
+        },
+        "yearRange": {
+            "currency": "GBP",
+            "decimals": 1,
+            "high": "7903.8",
+            "low": "4790.0"
+        },
+        "openingHours": {
+            "timezone": "America/Chicago",
+            "weekDays": [
+                [
+                    {
+                        "start": "17:02",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "14:59"
+                    },
+                    {
+                        "start": "15:05",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "14:59"
+                    },
+                    {
+                        "start": "15:05",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "14:59"
+                    },
+                    {
+                        "start": "15:05",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "14:59"
+                    },
+                    {
+                        "start": "15:05",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "14:59"
+                    },
+                    {
+                        "start": "15:05",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "INDICES",
+        "favorite": false,
+        "productMarketStatus": "OPEN",
+        "tags": [
+            "INDICES"
+        ],
+        "localizedMainTag": {
+            "id": "INDICES",
+            "name": "Indices"
+        }
+    },
+    {
+        "symbol": "US500",
+        "displayName": "US 500",
+        "securityId": "sb26496",
+        "quoteCurrency": "USD",
+        "displayDecimals": 2,
+        "maxLeverage": 20,
+        "multiplier": 1,
+        "currentPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "3905.13"
+        },
+        "closingPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "3907.38"
+        },
+        "dayRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "3909.13",
+            "low": "3901.63"
+        },
+        "yearRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "3964.13",
+            "low": "1810.10"
+        },
+        "openingHours": {
+            "timezone": "America/Chicago",
+            "weekDays": [
+                [
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "INDICES",
+        "favorite": false,
+        "productMarketStatus": "OPEN",
+        "tags": [
+            "INDICES"
+        ],
+        "localizedMainTag": {
+            "id": "INDICES",
+            "name": "Indices"
+        }
+    },
+    {
+        "symbol": "USTECH",
+        "displayName": "US Tech 100",
+        "securityId": "sb26497",
+        "quoteCurrency": "USD",
+        "displayDecimals": 2,
+        "maxLeverage": 20,
+        "multiplier": 1,
+        "currentPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "13582.63"
+        },
+        "closingPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "13579.25"
+        },
+        "dayRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "13588.88",
+            "low": "13566.88"
+        },
+        "yearRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "13908.38",
+            "low": "3787.23"
+        },
+        "openingHours": {
+            "timezone": "America/Chicago",
+            "weekDays": [
+                [
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "INDICES",
+        "favorite": false,
+        "productMarketStatus": "OPEN",
+        "tags": [
+            "INDICES"
+        ],
+        "localizedMainTag": {
+            "id": "INDICES",
+            "name": "Indices"
+        }
+    },
+    {
+        "symbol": "WALLSTREET",
+        "displayName": "Wallstreet 30",
+        "securityId": "sb26498",
+        "quoteCurrency": "USD",
+        "displayDecimals": 0,
+        "maxLeverage": 20,
+        "multiplier": 1,
+        "currentPrice": {
+            "currency": "USD",
+            "decimals": 0,
+            "amount": "31495"
+        },
+        "closingPrice": {
+            "currency": "USD",
+            "decimals": 0,
+            "amount": "31495"
+        },
+        "dayRange": {
+            "currency": "USD",
+            "decimals": 0,
+            "high": "31507",
+            "low": "31463"
+        },
+        "yearRange": {
+            "currency": "USD",
+            "decimals": 0,
+            "high": "31732",
+            "low": "15370"
+        },
+        "openingHours": {
+            "timezone": "America/Chicago",
+            "weekDays": [
+                [
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    },
+                    {
+                        "start": "17:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "15:15"
+                    },
+                    {
+                        "start": "15:30",
+                        "end": "16:00"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "INDICES",
+        "favorite": true,
+        "productMarketStatus": "OPEN",
+        "tags": [
+            "INDICES"
+        ],
+        "localizedMainTag": {
+            "id": "INDICES",
+            "name": "Indices"
+        }
+    },
+    {
+        "symbol": "Adidas",
+        "displayName": "Adidas",
+        "securityId": "sb26992",
+        "quoteCurrency": "EUR",
+        "displayDecimals": 2,
+        "maxLeverage": 5,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "EUR",
+            "decimals": 2,
+            "amount": "295.45"
+        },
+        "closingPrice": {
+            "currency": "EUR",
+            "decimals": 2,
+            "amount": "288.95"
+        },
+        "dayRange": {
+            "currency": "EUR",
+            "decimals": 2,
+            "high": "297.15",
+            "low": "292.20"
+        },
+        "yearRange": {
+            "currency": "EUR",
+            "decimals": 2,
+            "high": "317.33",
+            "low": "62.51"
+        },
+        "openingHours": {
+            "timezone": "Europe/Berlin",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "09:05",
+                        "end": "13:00"
+                    },
+                    {
+                        "start": "13:03",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:05",
+                        "end": "13:00"
+                    },
+                    {
+                        "start": "13:03",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:05",
+                        "end": "13:00"
+                    },
+                    {
+                        "start": "13:03",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:05",
+                        "end": "13:00"
+                    },
+                    {
+                        "start": "13:03",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:05",
+                        "end": "13:00"
+                    },
+                    {
+                        "start": "13:03",
+                        "end": "17:29"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "STOCKS",
+        "favorite": true,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "EU_STOCKS",
+            "DE_STOCKS"
+        ],
+        "localizedMainTag": {
+            "id": "EU_STOCKS",
+            "name": "Europese Aandelen"
+        }
+    },
+    {
+        "symbol": "Arcelormittal",
+        "displayName": "Arcelormittal",
+        "securityId": "sb26977",
+        "quoteCurrency": "EUR",
+        "displayDecimals": 3,
+        "maxLeverage": 5,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "EUR",
+            "decimals": 3,
+            "amount": "19.815"
+        },
+        "closingPrice": {
+            "currency": "EUR",
+            "decimals": 3,
+            "amount": "19.025"
+        },
+        "dayRange": {
+            "currency": "EUR",
+            "decimals": 3,
+            "high": "19.824",
+            "low": "18.915"
+        },
+        "yearRange": {
+            "currency": "EUR",
+            "decimals": 3,
+            "high": "30.775",
+            "low": "2.626"
+        },
+        "openingHours": {
+            "timezone": "Europe/Amsterdam",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "STOCKS",
+        "favorite": false,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "EU_STOCKS",
+            "NL_STOCKS"
+        ],
+        "localizedMainTag": {
+            "id": "EU_STOCKS",
+            "name": "Europese Aandelen"
+        }
+    },
+    {
+        "symbol": "ASML",
+        "displayName": "ASML",
+        "securityId": "sb27893",
+        "quoteCurrency": "EUR",
+        "displayDecimals": 2,
+        "maxLeverage": 5,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "EUR",
+            "decimals": 2,
+            "amount": "494.67"
+        },
+        "closingPrice": {
+            "currency": "EUR",
+            "decimals": 2,
+            "amount": "479.73"
+        },
+        "dayRange": {
+            "currency": "EUR",
+            "decimals": 2,
+            "high": "494.70",
+            "low": "484.28"
+        },
+        "yearRange": {
+            "currency": "EUR",
+            "decimals": 2,
+            "high": "502.60",
+            "low": "70.44"
+        },
+        "openingHours": {
+            "timezone": "Europe/Amsterdam",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "STOCKS",
+        "favorite": false,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "EU_STOCKS",
+            "NL_STOCKS"
+        ],
+        "localizedMainTag": {
+            "id": "EU_STOCKS",
+            "name": "Europese Aandelen"
+        }
+    },
+    {
+        "symbol": "BMW",
+        "displayName": "BMW",
+        "securityId": "sb26988",
+        "quoteCurrency": "EUR",
+        "displayDecimals": 2,
+        "maxLeverage": 5,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "EUR",
+            "decimals": 2,
+            "amount": "71.76"
+        },
+        "closingPrice": {
+            "currency": "EUR",
+            "decimals": 2,
+            "amount": "70.94"
+        },
+        "dayRange": {
+            "currency": "EUR",
+            "decimals": 2,
+            "high": "71.99",
+            "low": "70.66"
+        },
+        "yearRange": {
+            "currency": "EUR",
+            "decimals": 2,
+            "high": "104.85",
+            "low": "36.55"
+        },
+        "openingHours": {
+            "timezone": "Europe/Berlin",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "09:05",
+                        "end": "13:00"
+                    },
+                    {
+                        "start": "13:03",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:05",
+                        "end": "13:00"
+                    },
+                    {
+                        "start": "13:03",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:05",
+                        "end": "13:00"
+                    },
+                    {
+                        "start": "13:03",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:05",
+                        "end": "13:00"
+                    },
+                    {
+                        "start": "13:03",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:05",
+                        "end": "13:00"
+                    },
+                    {
+                        "start": "13:03",
+                        "end": "17:29"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "STOCKS",
+        "favorite": false,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "EU_STOCKS",
+            "DE_STOCKS"
+        ],
+        "localizedMainTag": {
+            "id": "EU_STOCKS",
+            "name": "Europese Aandelen"
+        }
+    },
+    {
+        "symbol": "Easyjet",
+        "displayName": "Easyjet",
+        "securityId": "sb27903",
+        "quoteCurrency": "GBP",
+        "displayDecimals": 2,
+        "maxLeverage": 4,
+        "multiplier": 1,
+        "currentPrice": {
+            "currency": "GBP",
+            "decimals": 2,
+            "amount": "831.50"
+        },
+        "closingPrice": {
+            "currency": "GBP",
+            "decimals": 2,
+            "amount": "799.70"
+        },
+        "dayRange": {
+            "currency": "GBP",
+            "decimals": 2,
+            "high": "833.70",
+            "low": "802.10"
+        },
+        "yearRange": {
+            "currency": "GBP",
+            "decimals": 2,
+            "high": "1927.00",
+            "low": "409.00"
+        },
+        "openingHours": {
+            "timezone": "Europe/London",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "08:02",
+                        "end": "12:00"
+                    },
+                    {
+                        "start": "12:03",
+                        "end": "16:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "08:02",
+                        "end": "12:00"
+                    },
+                    {
+                        "start": "12:03",
+                        "end": "16:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "08:02",
+                        "end": "12:00"
+                    },
+                    {
+                        "start": "12:03",
+                        "end": "16:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "08:02",
+                        "end": "12:00"
+                    },
+                    {
+                        "start": "12:03",
+                        "end": "16:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "08:02",
+                        "end": "12:00"
+                    },
+                    {
+                        "start": "12:03",
+                        "end": "16:29"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "STOCKS",
+        "favorite": false,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "EU_STOCKS",
+            "GB_STOCKS"
+        ],
+        "localizedMainTag": {
+            "id": "EU_STOCKS",
+            "name": "Europese Aandelen"
+        }
+    },
+    {
+        "symbol": "FUGRO",
+        "displayName": "FUGRO",
+        "securityId": "sb27897",
+        "quoteCurrency": "EUR",
+        "displayDecimals": 2,
+        "maxLeverage": 5,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "EUR",
+            "decimals": 2,
+            "amount": "8.62"
+        },
+        "closingPrice": {
+            "currency": "EUR",
+            "decimals": 2,
+            "amount": "9.32"
+        },
+        "dayRange": {
+            "currency": "EUR",
+            "decimals": 2,
+            "high": "8.88",
+            "low": "8.18"
+        },
+        "yearRange": {
+            "currency": "EUR",
+            "decimals": 2,
+            "high": "48.76",
+            "low": "2.62"
+        },
+        "openingHours": {
+            "timezone": "Europe/Amsterdam",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "STOCKS",
+        "favorite": false,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "EU_STOCKS",
+            "NL_STOCKS"
+        ],
+        "localizedMainTag": {
+            "id": "EU_STOCKS",
+            "name": "Europese Aandelen"
+        }
+    },
+    {
+        "symbol": "Heineken",
+        "displayName": "Heineken",
+        "securityId": "sb26974",
+        "quoteCurrency": "EUR",
+        "displayDecimals": 2,
+        "maxLeverage": 5,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "EUR",
+            "decimals": 2,
+            "amount": "86.63"
+        },
+        "closingPrice": {
+            "currency": "EUR",
+            "decimals": 2,
+            "amount": "86.55"
+        },
+        "dayRange": {
+            "currency": "EUR",
+            "decimals": 2,
+            "high": "87.19",
+            "low": "86.55"
+        },
+        "yearRange": {
+            "currency": "EUR",
+            "decimals": 2,
+            "high": "104.98",
+            "low": "64.54"
+        },
+        "openingHours": {
+            "timezone": "Europe/Amsterdam",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "STOCKS",
+        "favorite": false,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "EU_STOCKS",
+            "NL_STOCKS"
+        ],
+        "localizedMainTag": {
+            "id": "EU_STOCKS",
+            "name": "Europese Aandelen"
+        }
+    },
+    {
+        "symbol": "ING",
+        "displayName": "ING",
+        "securityId": "sb26975",
+        "quoteCurrency": "EUR",
+        "displayDecimals": 3,
+        "maxLeverage": 5,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "EUR",
+            "decimals": 3,
+            "amount": "8.988"
+        },
+        "closingPrice": {
+            "currency": "EUR",
+            "decimals": 3,
+            "amount": "8.639"
+        },
+        "dayRange": {
+            "currency": "EUR",
+            "decimals": 3,
+            "high": "9.020",
+            "low": "8.577"
+        },
+        "yearRange": {
+            "currency": "EUR",
+            "decimals": 3,
+            "high": "16.692",
+            "low": "4.226"
+        },
+        "openingHours": {
+            "timezone": "Europe/Amsterdam",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "STOCKS",
+        "favorite": false,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "EU_STOCKS",
+            "NL_STOCKS"
+        ],
+        "localizedMainTag": {
+            "id": "EU_STOCKS",
+            "name": "Europese Aandelen"
+        }
+    },
+    {
+        "symbol": "KLM",
+        "displayName": "AF - KLM",
+        "securityId": "sb26979",
+        "quoteCurrency": "EUR",
+        "displayDecimals": 4,
+        "maxLeverage": 5,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "EUR",
+            "decimals": 4,
+            "amount": "4.9435"
+        },
+        "closingPrice": {
+            "currency": "EUR",
+            "decimals": 4,
+            "amount": "4.7475"
+        },
+        "dayRange": {
+            "currency": "EUR",
+            "decimals": 4,
+            "high": "5.0290",
+            "low": "4.7235"
+        },
+        "yearRange": {
+            "currency": "EUR",
+            "decimals": 4,
+            "high": "14.6575",
+            "low": "2.6140"
+        },
+        "openingHours": {
+            "timezone": "Europe/Amsterdam",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "STOCKS",
+        "favorite": true,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "EU_STOCKS",
+            "NL_STOCKS"
+        ],
+        "localizedMainTag": {
+            "id": "EU_STOCKS",
+            "name": "Europese Aandelen"
+        }
+    },
+    {
+        "symbol": "Louis Vuitton",
+        "displayName": "Louis Vuitton",
+        "securityId": "sb26990",
+        "quoteCurrency": "EUR",
+        "displayDecimals": 2,
+        "maxLeverage": 5,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "EUR",
+            "decimals": 2,
+            "amount": "542.65"
+        },
+        "closingPrice": {
+            "currency": "EUR",
+            "decimals": 2,
+            "amount": "533.95"
+        },
+        "dayRange": {
+            "currency": "EUR",
+            "decimals": 2,
+            "high": "543.95",
+            "low": "538.15"
+        },
+        "yearRange": {
+            "currency": "EUR",
+            "decimals": 2,
+            "high": "543.95",
+            "low": "130.55"
+        },
+        "openingHours": {
+            "timezone": "Europe/Paris",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "09:05",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:05",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:05",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:05",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:05",
+                        "end": "17:29"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "STOCKS",
+        "favorite": false,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "EU_STOCKS",
+            "FR_STOCKS"
+        ],
+        "localizedMainTag": {
+            "id": "EU_STOCKS",
+            "name": "Europese Aandelen"
+        }
+    },
+    {
+        "symbol": "RDSA.AS",
+        "displayName": "Shell",
+        "securityId": "sb26533",
+        "quoteCurrency": "EUR",
+        "displayDecimals": 2,
+        "maxLeverage": 5,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "EUR",
+            "decimals": 2,
+            "amount": "16.36"
+        },
+        "closingPrice": {
+            "currency": "EUR",
+            "decimals": 2,
+            "amount": "16.22"
+        },
+        "dayRange": {
+            "currency": "EUR",
+            "decimals": 2,
+            "high": "16.40",
+            "low": "15.97"
+        },
+        "yearRange": {
+            "currency": "EUR",
+            "decimals": 2,
+            "high": "31.38",
+            "low": "9.86"
+        },
+        "openingHours": {
+            "timezone": "Europe/Amsterdam",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:02",
+                        "end": "17:29"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "STOCKS",
+        "favorite": false,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "EU_STOCKS",
+            "NL_STOCKS"
+        ],
+        "localizedMainTag": {
+            "id": "EU_STOCKS",
+            "name": "Europese Aandelen"
+        }
+    },
+    {
+        "symbol": "Wirecard",
+        "displayName": "Wirecard",
+        "securityId": "sb43880",
+        "quoteCurrency": "EUR",
+        "displayDecimals": 3,
+        "maxLeverage": 1,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "EUR",
+            "decimals": 3,
+            "amount": "0.440"
+        },
+        "closingPrice": {
+            "currency": "EUR",
+            "decimals": 3,
+            "amount": "0.440"
+        },
+        "dayRange": {
+            "currency": "EUR",
+            "decimals": 3,
+            "high": "0.000",
+            "low": "0.000"
+        },
+        "yearRange": {
+            "currency": "EUR",
+            "decimals": 3,
+            "high": "1.536",
+            "low": "0.303"
+        },
+        "openingHours": {
+            "timezone": "Europe/Berlin",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "09:05",
+                        "end": "13:00"
+                    },
+                    {
+                        "start": "13:03",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:05",
+                        "end": "13:00"
+                    },
+                    {
+                        "start": "13:03",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:05",
+                        "end": "13:00"
+                    },
+                    {
+                        "start": "13:03",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:05",
+                        "end": "13:00"
+                    },
+                    {
+                        "start": "13:03",
+                        "end": "17:29"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:05",
+                        "end": "13:00"
+                    },
+                    {
+                        "start": "13:03",
+                        "end": "17:29"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "STOCKS",
+        "favorite": false,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "EU_STOCKS",
+            "DE_STOCKS"
+        ],
+        "localizedMainTag": {
+            "id": "EU_STOCKS",
+            "name": "Europese Aandelen"
+        }
+    },
+    {
+        "symbol": "AAPL",
+        "displayName": "Apple",
+        "securityId": "sb26513",
+        "quoteCurrency": "USD",
+        "displayDecimals": 2,
+        "maxLeverage": 5,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "129.89"
+        },
+        "closingPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "129.82"
+        },
+        "dayRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "130.71",
+            "low": "128.80"
+        },
+        "yearRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "514.92",
+            "low": "89.47"
+        },
+        "openingHours": {
+            "timezone": "America/New_York",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "STOCKS",
+        "favorite": false,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "US_STOCKS"
+        ],
+        "localizedMainTag": {
+            "id": "US_STOCKS",
+            "name": "Amerikaanse Aandelen"
+        }
+    },
+    {
+        "symbol": "Abercrombie",
+        "displayName": "Abercrombie",
+        "securityId": "sb27693",
+        "quoteCurrency": "USD",
+        "displayDecimals": 2,
+        "maxLeverage": 5,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "26.90"
+        },
+        "closingPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "26.27"
+        },
+        "dayRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "27.03",
+            "low": "25.98"
+        },
+        "yearRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "32.83",
+            "low": "7.40"
+        },
+        "openingHours": {
+            "timezone": "America/New_York",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "STOCKS",
+        "favorite": false,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "US_STOCKS"
+        ],
+        "localizedMainTag": {
+            "id": "US_STOCKS",
+            "name": "Amerikaanse Aandelen"
+        }
+    },
+    {
+        "symbol": "Activision",
+        "displayName": "Activision",
+        "securityId": "sb28205",
+        "quoteCurrency": "USD",
+        "displayDecimals": 3,
+        "maxLeverage": 5,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "USD",
+            "decimals": 3,
+            "amount": "100.725"
+        },
+        "closingPrice": {
+            "currency": "USD",
+            "decimals": 3,
+            "amount": "102.205"
+        },
+        "dayRange": {
+            "currency": "USD",
+            "decimals": 3,
+            "high": "102.970",
+            "low": "100.580"
+        },
+        "yearRange": {
+            "currency": "USD",
+            "decimals": 3,
+            "high": "104.525",
+            "low": "16.550"
+        },
+        "openingHours": {
+            "timezone": "America/New_York",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "STOCKS",
+        "favorite": false,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "US_STOCKS"
+        ],
+        "localizedMainTag": {
+            "id": "US_STOCKS",
+            "name": "Amerikaanse Aandelen"
+        }
+    },
+    {
+        "symbol": "Amazon",
+        "displayName": "Amazon",
+        "securityId": "sb26998",
+        "quoteCurrency": "USD",
+        "displayDecimals": 2,
+        "maxLeverage": 5,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "3248.10"
+        },
+        "closingPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "3329.22"
+        },
+        "dayRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "3332.43",
+            "low": "3245.80"
+        },
+        "yearRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "3548.59",
+            "low": "419.14"
+        },
+        "openingHours": {
+            "timezone": "America/New_York",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "STOCKS",
+        "favorite": false,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "US_STOCKS"
+        ],
+        "localizedMainTag": {
+            "id": "US_STOCKS",
+            "name": "Amerikaanse Aandelen"
+        }
+    },
+    {
+        "symbol": "Kraft-Heinz",
+        "displayName": "Kraft-Heinz",
+        "securityId": "sb28214",
+        "quoteCurrency": "USD",
+        "displayDecimals": 2,
+        "maxLeverage": 5,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "37.50"
+        },
+        "closingPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "38.92"
+        },
+        "dayRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "38.47",
+            "low": "37.19"
+        },
+        "yearRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "97.77",
+            "low": "20.05"
+        },
+        "openingHours": {
+            "timezone": "America/New_York",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "STOCKS",
+        "favorite": false,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "US_STOCKS"
+        ],
+        "localizedMainTag": {
+            "id": "US_STOCKS",
+            "name": "Amerikaanse Aandelen"
+        }
+    },
+    {
+        "symbol": "Netflix",
+        "displayName": "Netflix",
+        "securityId": "sb27002",
+        "quoteCurrency": "USD",
+        "displayDecimals": 2,
+        "maxLeverage": 5,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "540.42"
+        },
+        "closingPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "547.75"
+        },
+        "dayRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "546.48",
+            "low": "538.85"
+        },
+        "yearRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "593.25",
+            "low": "79.95"
+        },
+        "openingHours": {
+            "timezone": "America/New_York",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "STOCKS",
+        "favorite": false,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "US_STOCKS"
+        ],
+        "localizedMainTag": {
+            "id": "US_STOCKS",
+            "name": "Amerikaanse Aandelen"
+        }
+    },
+    {
+        "symbol": "Nvidia Corp",
+        "displayName": "Nvidia",
+        "securityId": "sb33059",
+        "quoteCurrency": "USD",
+        "displayDecimals": 3,
+        "maxLeverage": 5,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "USD",
+            "decimals": 3,
+            "amount": "596.655"
+        },
+        "closingPrice": {
+            "currency": "USD",
+            "decimals": 3,
+            "amount": "593.115"
+        },
+        "dayRange": {
+            "currency": "USD",
+            "decimals": 3,
+            "high": "607.035",
+            "low": "593.925"
+        },
+        "yearRange": {
+            "currency": "USD",
+            "decimals": 3,
+            "high": "614.855",
+            "low": "19.090"
+        },
+        "openingHours": {
+            "timezone": "America/New_York",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "STOCKS",
+        "favorite": false,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "US_STOCKS"
+        ],
+        "localizedMainTag": {
+            "id": "US_STOCKS",
+            "name": "Amerikaanse Aandelen"
+        }
+    },
+    {
+        "symbol": "SNAP",
+        "displayName": "SNAP",
+        "securityId": "sb36792",
+        "quoteCurrency": "USD",
+        "displayDecimals": 2,
+        "maxLeverage": 5,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "65.55"
+        },
+        "closingPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "62.85"
+        },
+        "dayRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "65.81",
+            "low": "63.93"
+        },
+        "yearRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "65.81",
+            "low": "4.83"
+        },
+        "openingHours": {
+            "timezone": "America/New_York",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "STOCKS",
+        "favorite": false,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "US_STOCKS"
+        ],
+        "localizedMainTag": {
+            "id": "US_STOCKS",
+            "name": "Amerikaanse Aandelen"
+        }
+    },
+    {
+        "symbol": "TSLA",
+        "displayName": "Tesla",
+        "securityId": "sb26515",
+        "quoteCurrency": "USD",
+        "displayDecimals": 2,
+        "maxLeverage": 5,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "780.71"
+        },
+        "closingPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "786.95"
+        },
+        "dayRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "796.73",
+            "low": "777.39"
+        },
+        "yearRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "2318.67",
+            "low": "141.05"
+        },
+        "openingHours": {
+            "timezone": "America/New_York",
+            "weekDays": [
+                [],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                [
+                    {
+                        "start": "09:32",
+                        "end": "15:59"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "STOCKS",
+        "favorite": false,
+        "productMarketStatus": "CLOSED",
+        "tags": [
+            "US_STOCKS"
+        ],
+        "localizedMainTag": {
+            "id": "US_STOCKS",
+            "name": "Amerikaanse Aandelen"
+        }
+    },
+    {
+        "symbol": "GOLD",
+        "displayName": "Gold",
+        "securityId": "sb26500",
+        "quoteCurrency": "USD",
+        "displayDecimals": 1,
+        "maxLeverage": 20,
+        "multiplier": 10,
+        "currentPrice": {
+            "currency": "USD",
+            "decimals": 1,
+            "amount": "1781.5"
+        },
+        "closingPrice": {
+            "currency": "USD",
+            "decimals": 1,
+            "amount": "1777.7"
+        },
+        "dayRange": {
+            "currency": "USD",
+            "decimals": 1,
+            "high": "1782.7",
+            "low": "1777.6"
+        },
+        "yearRange": {
+            "currency": "USD",
+            "decimals": 1,
+            "high": "2075.4",
+            "low": "1122.9"
+        },
+        "openingHours": {
+            "timezone": "America/New_York",
+            "weekDays": [
+                [
+                    {
+                        "start": "18:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "18:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "18:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "18:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "18:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "COMMODITIES",
+        "favorite": false,
+        "productMarketStatus": "OPEN",
+        "tags": [
+            "COMMODITIES"
+        ],
+        "localizedMainTag": {
+            "id": "COMMODITIES",
+            "name": "Grondstoffen"
+        }
+    },
+    {
+        "symbol": "SILVER",
+        "displayName": "Silver",
+        "securityId": "sb26501",
+        "quoteCurrency": "USD",
+        "displayDecimals": 3,
+        "maxLeverage": 10,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "USD",
+            "decimals": 3,
+            "amount": "27.193"
+        },
+        "closingPrice": {
+            "currency": "USD",
+            "decimals": 3,
+            "amount": "27.216"
+        },
+        "dayRange": {
+            "currency": "USD",
+            "decimals": 3,
+            "high": "27.272",
+            "low": "27.158"
+        },
+        "yearRange": {
+            "currency": "USD",
+            "decimals": 3,
+            "high": "1453.955",
+            "low": "11.639"
+        },
+        "openingHours": {
+            "timezone": "America/New_York",
+            "weekDays": [
+                [
+                    {
+                        "start": "18:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "18:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "18:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "18:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "18:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "COMMODITIES",
+        "favorite": false,
+        "productMarketStatus": "OPEN",
+        "tags": [
+            "COMMODITIES"
+        ],
+        "localizedMainTag": {
+            "id": "COMMODITIES",
+            "name": "Grondstoffen"
+        }
+    },
+    {
+        "symbol": "EUR/GBP",
+        "displayName": "EUR/GBP",
+        "securityId": "sb26504",
+        "quoteCurrency": "GBP",
+        "displayDecimals": 5,
+        "maxLeverage": 30,
+        "multiplier": 10000,
+        "currentPrice": {
+            "currency": "GBP",
+            "decimals": 5,
+            "amount": "0.86497"
+        },
+        "closingPrice": {
+            "currency": "GBP",
+            "decimals": 5,
+            "amount": "0.86458"
+        },
+        "dayRange": {
+            "currency": "GBP",
+            "decimals": 5,
+            "high": "0.86535",
+            "low": "0.86455"
+        },
+        "yearRange": {
+            "currency": "GBP",
+            "decimals": 5,
+            "high": "1453.95500",
+            "low": "0.63231"
+        },
+        "openingHours": {
+            "timezone": "America/New_York",
+            "weekDays": [
+                [
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "FOREX",
+        "favorite": false,
+        "productMarketStatus": "OPEN",
+        "tags": [
+            "FOREX"
+        ],
+        "localizedMainTag": {
+            "id": "FOREX",
+            "name": "Valuta"
+        }
+    },
+    {
+        "symbol": "EUR/AUD",
+        "displayName": "EUR/AUD",
+        "securityId": "sb34066",
+        "quoteCurrency": "AUD",
+        "displayDecimals": 4,
+        "maxLeverage": 20,
+        "multiplier": 10000,
+        "currentPrice": {
+            "currency": "AUD",
+            "decimals": 4,
+            "amount": "1.5400"
+        },
+        "closingPrice": {
+            "currency": "AUD",
+            "decimals": 4,
+            "amount": "1.5404"
+        },
+        "dayRange": {
+            "currency": "AUD",
+            "decimals": 4,
+            "high": "1.5409",
+            "low": "1.5397"
+        },
+        "yearRange": {
+            "currency": "AUD",
+            "decimals": 4,
+            "high": "1453.9550",
+            "low": "0.6323"
+        },
+        "openingHours": {
+            "timezone": "America/New_York",
+            "weekDays": [
+                [
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "FOREX",
+        "favorite": false,
+        "productMarketStatus": "OPEN",
+        "tags": [
+            "FOREX"
+        ],
+        "localizedMainTag": {
+            "id": "FOREX",
+            "name": "Valuta"
+        }
+    },
+    {
+        "symbol": "EUR/JPY",
+        "displayName": "EUR/JPY",
+        "securityId": "sb28257",
+        "quoteCurrency": "JPY",
+        "displayDecimals": 3,
+        "maxLeverage": 30,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "JPY",
+            "decimals": 3,
+            "amount": "127.778"
+        },
+        "closingPrice": {
+            "currency": "JPY",
+            "decimals": 3,
+            "amount": "127.808"
+        },
+        "dayRange": {
+            "currency": "JPY",
+            "decimals": 3,
+            "high": "127.819",
+            "low": "127.759"
+        },
+        "yearRange": {
+            "currency": "JPY",
+            "decimals": 3,
+            "high": "1453.955",
+            "low": "0.632"
+        },
+        "openingHours": {
+            "timezone": "America/New_York",
+            "weekDays": [
+                [
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "FOREX",
+        "favorite": false,
+        "productMarketStatus": "OPEN",
+        "tags": [
+            "FOREX"
+        ],
+        "localizedMainTag": {
+            "id": "FOREX",
+            "name": "Valuta"
+        }
+    },
+    {
+        "symbol": "EUR/USD",
+        "displayName": "EUR/USD",
+        "securityId": "sb26502",
+        "quoteCurrency": "USD",
+        "displayDecimals": 5,
+        "maxLeverage": 30,
+        "multiplier": 10000,
+        "currentPrice": {
+            "currency": "USD",
+            "decimals": 5,
+            "amount": "1.21148"
+        },
+        "closingPrice": {
+            "currency": "USD",
+            "decimals": 5,
+            "amount": "1.21155"
+        },
+        "dayRange": {
+            "currency": "USD",
+            "decimals": 5,
+            "high": "1.21198",
+            "low": "1.21144"
+        },
+        "yearRange": {
+            "currency": "USD",
+            "decimals": 5,
+            "high": "1453.95500",
+            "low": "1.03403"
+        },
+        "openingHours": {
+            "timezone": "America/New_York",
+            "weekDays": [
+                [
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "FOREX",
+        "favorite": true,
+        "productMarketStatus": "OPEN",
+        "tags": [
+            "FOREX"
+        ],
+        "localizedMainTag": {
+            "id": "FOREX",
+            "name": "Valuta"
+        }
+    },
+    {
+        "symbol": "GBP/USD",
+        "displayName": "GBP/USD",
+        "securityId": "sb26503",
+        "quoteCurrency": "USD",
+        "displayDecimals": 5,
+        "maxLeverage": 30,
+        "multiplier": 10000,
+        "currentPrice": {
+            "currency": "USD",
+            "decimals": 5,
+            "amount": "1.40057"
+        },
+        "closingPrice": {
+            "currency": "USD",
+            "decimals": 5,
+            "amount": "1.40134"
+        },
+        "dayRange": {
+            "currency": "USD",
+            "decimals": 5,
+            "high": "1.40144",
+            "low": "1.40012"
+        },
+        "yearRange": {
+            "currency": "USD",
+            "decimals": 5,
+            "high": "1453.95500",
+            "low": "0.63231"
+        },
+        "openingHours": {
+            "timezone": "America/New_York",
+            "weekDays": [
+                [
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "FOREX",
+        "favorite": false,
+        "productMarketStatus": "OPEN",
+        "tags": [
+            "FOREX"
+        ],
+        "localizedMainTag": {
+            "id": "FOREX",
+            "name": "Valuta"
+        }
+    },
+    {
+        "symbol": "USD/JPY",
+        "displayName": "USD/JPY",
+        "securityId": "sb28259",
+        "quoteCurrency": "JPY",
+        "displayDecimals": 3,
+        "maxLeverage": 30,
+        "multiplier": 100,
+        "currentPrice": {
+            "currency": "JPY",
+            "decimals": 3,
+            "amount": "105.469"
+        },
+        "closingPrice": {
+            "currency": "JPY",
+            "decimals": 3,
+            "amount": "105.489"
+        },
+        "dayRange": {
+            "currency": "JPY",
+            "decimals": 3,
+            "high": "105.494",
+            "low": "105.422"
+        },
+        "yearRange": {
+            "currency": "JPY",
+            "decimals": 3,
+            "high": "1453.955",
+            "low": "99.004"
+        },
+        "openingHours": {
+            "timezone": "America/New_York",
+            "weekDays": [
+                [
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    },
+                    {
+                        "start": "17:05",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "17:00"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "FOREX",
+        "favorite": false,
+        "productMarketStatus": "OPEN",
+        "tags": [
+            "FOREX"
+        ],
+        "localizedMainTag": {
+            "id": "FOREX",
+            "name": "Valuta"
+        }
+    },
+    {
+        "symbol": "Bitcoin",
+        "displayName": "Bitcoin",
+        "securityId": "sb37392",
+        "quoteCurrency": "USD",
+        "displayDecimals": 2,
+        "maxLeverage": 2,
+        "multiplier": 1,
+        "currentPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "56190.25"
+        },
+        "closingPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "55056.25"
+        },
+        "dayRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "56407.75",
+            "low": "54850.74"
+        },
+        "yearRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "56407.75",
+            "low": "1453.96"
+        },
+        "openingHours": {
+            "timezone": "Europe/London",
+            "weekDays": [
+                [
+                    {
+                        "start": "22:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "22:00"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "CRYPTO",
+        "favorite": false,
+        "productMarketStatus": "OPEN",
+        "tags": [
+            "CRYPTO"
+        ],
+        "localizedMainTag": {
+            "id": "CRYPTO",
+            "name": "Cryptovaluta"
+        }
+    },
+    {
+        "symbol": "Bitcoin Cash",
+        "displayName": "Bitcoin Cash",
+        "securityId": "sb39153",
+        "quoteCurrency": "USD",
+        "displayDecimals": 2,
+        "maxLeverage": 2,
+        "multiplier": 1,
+        "currentPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "720.06"
+        },
+        "closingPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "713.82"
+        },
+        "dayRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "721.22",
+            "low": "712.14"
+        },
+        "yearRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "1778.59",
+            "low": "79.04"
+        },
+        "openingHours": {
+            "timezone": "Europe/London",
+            "weekDays": [
+                [
+                    {
+                        "start": "22:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "22:00"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "CRYPTO",
+        "favorite": false,
+        "productMarketStatus": "OPEN",
+        "tags": [
+            "CRYPTO"
+        ],
+        "localizedMainTag": {
+            "id": "CRYPTO",
+            "name": "Cryptovaluta"
+        }
+    },
+    {
+        "symbol": "Ripple",
+        "displayName": "Ripple",
+        "securityId": "sb39083",
+        "quoteCurrency": "USD",
+        "displayDecimals": 4,
+        "maxLeverage": 2,
+        "multiplier": 1,
+        "currentPrice": {
+            "currency": "USD",
+            "decimals": 4,
+            "amount": "0.2772"
+        },
+        "closingPrice": {
+            "currency": "USD",
+            "decimals": 4,
+            "amount": "0.2772"
+        },
+        "dayRange": {
+            "currency": "USD",
+            "decimals": 4,
+            "high": "0.0000",
+            "low": "0.0000"
+        },
+        "yearRange": {
+            "currency": "USD",
+            "decimals": 4,
+            "high": "1453.9550",
+            "low": "0.1087"
+        },
+        "openingHours": {
+            "timezone": "Europe/London",
+            "weekDays": [
+                [
+                    {
+                        "start": "22:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "22:00"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "CRYPTO",
+        "favorite": false,
+        "productMarketStatus": "OPEN",
+        "tags": [
+            "CRYPTO"
+        ],
+        "localizedMainTag": {
+            "id": "CRYPTO",
+            "name": "Cryptovaluta"
+        }
+    },
+    {
+        "symbol": "Ethereum",
+        "displayName": "Ethereum",
+        "securityId": "sb39062",
+        "quoteCurrency": "USD",
+        "displayDecimals": 2,
+        "maxLeverage": 2,
+        "multiplier": 1,
+        "currentPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "1965.55"
+        },
+        "closingPrice": {
+            "currency": "USD",
+            "decimals": 2,
+            "amount": "1956.24"
+        },
+        "dayRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "1965.68",
+            "low": "1948.42"
+        },
+        "yearRange": {
+            "currency": "USD",
+            "decimals": 2,
+            "high": "1976.25",
+            "low": "80.19"
+        },
+        "openingHours": {
+            "timezone": "Europe/London",
+            "weekDays": [
+                [
+                    {
+                        "start": "22:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "00:00"
+                    }
+                ],
+                [
+                    {
+                        "start": "00:00",
+                        "end": "22:00"
+                    }
+                ],
+                []
+            ]
+        },
+        "category": "CRYPTO",
+        "favorite": false,
+        "productMarketStatus": "OPEN",
+        "tags": [
+            "CRYPTO"
+        ],
+        "localizedMainTag": {
+            "id": "CRYPTO",
+            "name": "Cryptovaluta"
+        }
+    }
+]

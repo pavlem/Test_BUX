@@ -1,0 +1,120 @@
+{
+    "symbol": "China A50",
+    "displayName": "China A50",
+    "securityId": "sb42723",
+    "quoteCurrency": "USD",
+    "displayDecimals": 0,
+    "maxLeverage": 10,
+    "multiplier": 1,
+    "currentPrice": {
+        "currency": "USD",
+        "decimals": 0,
+        "amount": "19959"
+    },
+    "closingPrice": {
+        "currency": "USD",
+        "decimals": 0,
+        "amount": "19986"
+    },
+    "dayRange": {
+        "currency": "USD",
+        "decimals": 0,
+        "high": "20005",
+        "low": "19951"
+    },
+    "yearRange": {
+        "currency": "USD",
+        "decimals": 0,
+        "high": "20564",
+        "low": "10155"
+    },
+    "openingHours": {
+        "timezone": "Asia/Singapore",
+        "weekDays": [
+            [],
+            [
+                {
+                    "start": "09:00",
+                    "end": "16:30"
+                },
+                {
+                    "start": "17:00",
+                    "end": "00:00"
+                }
+            ],
+            [
+                {
+                    "start": "00:00",
+                    "end": "04:45"
+                },
+                {
+                    "start": "09:00",
+                    "end": "16:30"
+                },
+                {
+                    "start": "17:00",
+                    "end": "00:00"
+                }
+            ],
+            [
+                {
+                    "start": "00:00",
+                    "end": "04:45"
+                },
+                {
+                    "start": "09:00",
+                    "end": "16:30"
+                },
+                {
+                    "start": "17:00",
+                    "end": "00:00"
+                }
+            ],
+            [
+                {
+                    "start": "00:00",
+                    "end": "04:45"
+                },
+                {
+                    "start": "09:00",
+                    "end": "16:30"
+                },
+                {
+                    "start": "17:00",
+                    "end": "00:00"
+                }
+            ],
+            [
+                {
+                    "start": "00:00",
+                    "end": "04:45"
+                },
+                {
+                    "start": "09:00",
+                    "end": "16:30"
+                },
+                {
+                    "start": "17:00",
+                    "end": "00:00"
+                }
+            ],
+            [
+                {
+                    "start": "00:00",
+                    "end": "04:45"
+                }
+            ]
+        ]
+    },
+    "category": "INDICES",
+    "favorite": false,
+    "productMarketStatus": "CLOSED",
+    "tags": [
+        "INDICES"
+    ],
+    "localizedMainTag": {
+        "id": "INDICES",
+        "name": "Indices"
+    },
+    "description": "Van de meeste bedrijven in deze index heb je misschien nog nooit gehoord, maar toch hebben zij de wind mee in de tweede economie van de wereld: China. Enorme staatsbedrijven zoals China Railway Construction, het oliebedrijf PetroChina en de '4 grote Chinese banken'."
+}

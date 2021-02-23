@@ -1,0 +1,6 @@
+framework module Pods_TBuxTests {
+  umbrella header "Pods-TBuxTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
